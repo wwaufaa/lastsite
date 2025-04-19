@@ -30,12 +30,13 @@ nav {
 
 p {
     text-align: center;
-    padding: 50px 28px 50px 28px;
+    padding: 40px 28px 40px 28px;
 }
 
 footer {
     background-color: #9A9CAD;
     padding: 1%;
+    margin-top: 50px;
 }
 
 footer p {
@@ -43,4 +44,16 @@ footer p {
     padding: 15px 7px 15px 7px;
     width: 250px;
     color: white;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
 }
