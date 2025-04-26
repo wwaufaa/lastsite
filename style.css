@@ -33,11 +33,6 @@ p {
     padding: 40px 28px 40px 28px;
 }
 
-.inst {
-    padding: 5px;
-    text-align: left;
-}
-
 footer {
     background-color: #9A9CAD;
     padding: 1%;
@@ -61,4 +56,8 @@ img {
     width: 200px;
     display: block;
     margin: 0 auto;
+}
+
+a {
+    color: black;
 }
